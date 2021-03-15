@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harsha49981
 - 👀 I’m interested in pentesting
 - 🌱 I’m currently learning VAPT(vulnarability assessment and penetration testing)
-- 💞️ I’m looking for job full time or internship
+- 💞️ I’m looking for job full time or internship in pentesting
 - 📫 How to reach me hr242714@gmail.com
 
 <!---
